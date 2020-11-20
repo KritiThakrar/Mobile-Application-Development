@@ -7,9 +7,9 @@ An aap which has two activities in which First activity contains an input messag
 ## Final Result
 <details>
 <summary><strong>Activity-1(Entering Data)</strong></summary>
-<img src="./Output/Activity-1.png"/>
+<img src="./Output/Activity-1.png" width=200px/>
 </details>
 <details>
 <summary><strong>Activity-2(Displaying the entered data)</strong></summary>
-<img src="./Output/Activity-2.png"/>
+<img src="./Output/Activity-2.png" width=200px/>
 </details>
